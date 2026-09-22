@@ -1,0 +1,3 @@
+APP_NAME = "Git Practice"
+FRAME_INTERVAL = 30
+MIN_CONFIDENCE = 0.5
